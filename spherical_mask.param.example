@@ -1,0 +1,11 @@
+&mask_params
+levelmin = 8
+levelmax = 10
+xi = 0.5
+yi = 0.5
+zi = 0.5
+r = 0.05
+npad = 4
+path = '/path/to/gp/fields/'
+/
+
